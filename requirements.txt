@@ -2,3 +2,6 @@ pandas>=2.2.0
 streamlit>=1.36.0
 fastapi
 uvicorn
+
+# Explicit dependency required by api/api.py
+pydantic
