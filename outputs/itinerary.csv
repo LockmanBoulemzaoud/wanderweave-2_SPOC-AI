@@ -1,0 +1,7 @@
+time_start,time_end,duration_actual,name,category,hidden,popularity,tags,price_eur
+10:04,10:41,37,Rue Cremieux,street,1,0.7999999999999999,"photo,hidden-gem,street-art",0
+11:35,12:29,54,Tuileries Garden,park,0,0.82,"relax,photo,romantic",0
+12:40,13:28,48,Palais-Royal & Colonnes de Buren,landmark,0,0.83,"photo,art,romantic",0
+14:24,15:36,72,Parc des Buttes-Chaumont,park,0,0.84,"relax,photo,locals",0
+15:56,17:08,72,Parc de la Villette & Canal,walk,0,0.85,"locals,relax,photo",0
+18:43,19:55,72,Jardin du Luxembourg,park,0,0.86,"relax,photo,romantic",0
