@@ -1,0 +1,11 @@
+pandas>=2.2.0
+streamlit>=1.36.0
+fastapi
+uvicorn
+
+# Explicit dependency required by api/api.py
+pydantic
+
+# This file contains the full set of dependencies used for local development
+# and for components like the Streamlit UI. To install locally:
+# pip install -r requirements-full.txt
