@@ -1,0 +1,25 @@
+# Exclude heavy or unnecessary files from Vercel deployments to keep serverless
+# function packages below the 250 MB unzipped limit.
+
+# Data and generated outputs
+data/
+outputs/
+
+# Local developer/dependency lists and environments
+requirements-full.txt
+.venv/
+env/
+venv/
+
+# Docs, samples and local notebooks
+docs/
+*.ipynb
+
+# Local build artifacts, caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Misc (OS/editor)
+.DS_Store
+.vscode/

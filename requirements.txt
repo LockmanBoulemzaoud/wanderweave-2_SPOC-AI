@@ -1,7 +1,9 @@
-pandas>=2.2.0
-streamlit>=1.36.0
+## Minimal requirements used by Vercel for the API build.
+## Keep this list small to avoid exceeding Vercel serverless function size limits.
 fastapi
 uvicorn
-
-# Explicit dependency required by api/api.py
 pydantic
+
+# If you need the full set of developer dependencies (pandas, streamlit, ...),
+# install them from `requirements-full.txt` instead:
+# pip install -r requirements-full.txt
